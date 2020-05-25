@@ -1,0 +1,450 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Sostenitori Centro Rodari Orvieto",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 10,
+    "versionPublish": "4.8.8",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    },
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://rodari.visit-orvieto.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "siteFonts": []
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Rilanciare il Centro Studi Gianni Rodari di Orvieto",
+        "meta_descr": "Il Centro Studi Gianni Rodari di Orvieto è un unicum mondiale da troppo tempo dimenticato dalle istituzioni. C'è un progetto di rilancio ta troppo tempo bloccato. Firmate la petizione e sosteneteci.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rodari-con-i-bambini-russi-2000x1345.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "GIANNI RODARI",
+                "showText": true,
+                "text": "Probabilmente uno dei più noti autori per l'infanzia e tuttora uno dei più venduti e tradotti in tutto il mondo. Gianni Rodari fu pedagogista, scrittore, giornalista ed un influente intellettuale.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.change.org/p/dario-franceschini-sostenere-il-centro-studi-rodari/\" data-toolbar=\"-mbrBtnMove\">FIRMA LA PETIZIONE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://it.wikipedia.org/wiki/Gianni_Rodari\" data-toolbar=\"-mbrBtnMove\">SCOPRI DI PIU'</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/cover-rodari-2000x625.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "LA COLLEZIONE",
+                "showText": true,
+                "text": "Il fondo librario e la collezione del Centro presente ad Orvieto è unica e raccoglie esemplari rarissimi consultati negli anni dai ricercatori di tutto il mondo. Occorre il Vostro sostegno per renderla di nuovo disponibile.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.change.org/p/dario-franceschini-sostenere-il-centro-studi-rodari/\" data-toolbar=\"-mbrBtnMove\">FIRMA LA PETIZIONE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-9\" data-toolbar=\"-mbrBtnMove\">SCOPRI DI PIU'</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1316.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "IL CENTRO RODARI DI ORVIETO",
+                "showText": true,
+                "text": "E' l'ente di riferimento per gli studi su Rodari e per la diffusione del messaggio culturale legato all'autore. Sosteniamo il rilancio.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.change.org/p/dario-franceschini-sostenere-il-centro-studi-rodari/\" data-toolbar=\"-mbrBtnMove\">FIRMA LA PETIZIONE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://orvieto5stelle.com/2017/05/01/lucia-vergaglia-sul-mancato-rilancio-del-centro-studi-gianni-rodari/\" data-toolbar=\"-mbrBtnMove\">SCOPRI DI PIU'</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/primo-consiglio-comunale-m5s-orvieto-26-giugno-2014-2000x1491.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "IL COMUNE DI ORVIETO",
+                "showText": true,
+                "text": "E' socio fondatore del Centro e, da statuto, ne ospita la sede contribuendo agli scopi sociali. Nel 2016, dopo anni di stop, se ne è deliberato il rilancio ma serve anche il Vostro aiuto.&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.change.org/p/dario-franceschini-sostenere-il-centro-studi-rodari/\" data-toolbar=\"-mbrBtnMove\">FIRMA LA PETIZIONE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://orvieto5stelle.com/2016/04/15/centro-e-premio-gianni-rodari/\" data-toolbar=\"-mbrBtnMove\">SCOPRI DI PIU'</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/lucia-vergaglia-europarlamento-2000x1122.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "IL PROGETTO VERGAGLIA",
+                "showText": true,
+                "text": "Presentato nel 2017 prevede tre linee d'azione entro il centenario dell'autore nel 2020: la riapertura alla città come centro culturale e sede d'incontri ed eventi, il riavvio dell'attività scientifica e documentale ed infine il rilancio dell'istituzione e del premio Rodari.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.change.org/p/dario-franceschini-sostenere-il-centro-studi-rodari/\" data-toolbar=\"-mbrBtnMove\">FIRMA LA PETIZIONE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features2-7\" data-toolbar=\"-mbrBtnMove\">SCOPRI DI PIU'</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-6",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Il Centro Studi Gianni Rodari di Orvieto",
+          "meta": "La città di Orvieto ha ospitato numerose edizioni del “Premio alla fantasia Gianni Rodari - Città di Orvieto” sin dal 1984, dedicato alla memoria del famoso scrittore di opere per l’infanzia, e non solo, Gianni Rodari. Il Centro Studi Gianni Rodari nasce nel 1987, per iniziativa del Comune di Orvieto e della vedova Rodari, Maria Teresa Ferretti, in seguito alla prima edizione del Premio col proposito di realizzare iniziative culturali e formative che valorizzino la creatività, la fantasia e il senso civico delle giovani generazioni e promuovere gli studi su Gianni Rodari scrittore, giornalista, intellettuale e raccogliere l’intera produzione letteraria e giornalistica. Dotato di una collezione unica e di una sede che andrebbe solo riattivata dal 2005 al 2017 il Centro non è stato realmente operativo e solo recentemente se ne è stato approvato il rilancio che per ora è ancora solo sulla carta .<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "title": "SOSTENITORI",
+          "meta": "Iniziative del gruppo a sostegno del Centro Studi Gianni Rodari"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features2-7",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "mic",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "RadioGianni",
+          "subtitle1": "Musica e palinsesto dedicato ai ragazzi.&nbsp;",
+          "caption1": "Un'idea ed un progetto quello di una web radio dedicata a Rodari.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#features2-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING<br>SOON</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "GianniCanale",
+          "subtitle2": "Canale Youtube dei promotori del rilancio del Centro",
+          "caption2": "Un canale, anzi una web Tv, dedicata all'autore ed al rilancio del Centro Rodari.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/channel/UCOW5Xrmbc2TjblvxqeR_utQ\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VEDI</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "Caro Gianni",
+          "subtitle3": "Firma la petizione a sostegno del Centro Studi Gianni Rodari.",
+          "caption3": "Firma e diffondi \"Caro Gianni\" la petizione online per il rispetto dell'autore ed il rilancio del Centro.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.change.org/p/dario-franceschini-sostenere-il-centro-studi-rodari/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">FIRMA</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "map",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Geografia della Fantasia",
+          "subtitle4": "Esplora i luoghi dei racconti di Gianni Rodari",
+          "caption4": "I luoghi delle opere e nelle opere. Un progetto che va condiviso con le amministrazioni locali.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/Geografia.Rodari/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VAI</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "newspaper",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title5": "Dicono di noi",
+          "subtitle5": "Ritaglia di giornale, lettere di sostegno....",
+          "caption5": "Una piccola raccolta di scritti ed immagini pubblicate qua e la che testimoniano l'impegno per Rodari.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/Geografia.Rodari/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEGGI</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "calendar",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title6": "Eventi",
+          "subtitle6": "Il premio Gianni Rodaria alla fantasia e gli altri appuntamenti.",
+          "caption6": "Un premio che deve tornare ad essere importante, noto e riconosciuto.<br>Lavoriamo per il rilancio e per il grande centenario..",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/Geografia.Rodari/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SCOPRI</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gianni-rodari-favicon-128x189.png",
+              "height": 128,
+              "alt": "Progetto di rilancio del Centro Rodari Orvieto",
+              "link": "http://rodari.visit-orvieto.com",
+              "title": "Gianni Rodari - Orvieto",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOSTENITORI CENTRO STUDI&nbsp;RODARI<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.change.org/p/dario-franceschini-sostenere-il-centro-studi-rodari/\">FIRMA LA PETIZIONE</a></li>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebookToken": "",
+            "facebook": "Geografia.Rodari",
+            "twitter": "luciavergaglia",
+            "youtube": "UCOW5Xrmbc2TjblvxqeR_utQ",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        }
+      ]
+    }
+  }
+}
