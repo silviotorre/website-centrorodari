@@ -1,2 +1,3 @@
 # website-centrorodari
-GitHub Pages
+Centro Studi Gianni Rodari
+Progetto centenario
