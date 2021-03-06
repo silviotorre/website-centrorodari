@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /cgi-bin
 Crawl-delay: 10
 
-Sitemap: sitemap.xml
+Sitemap: https://silviotorre.github.io/website-centrorodari/sitemap.xml
